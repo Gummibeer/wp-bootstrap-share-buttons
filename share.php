@@ -5,7 +5,7 @@
  * @author-email: dev.gummibeer@gmail.com
  * @author-url: https://github.com/Gummibeer
  * @copyright: 2015 by Tom Witkowski
- * @licence: GNU GPL v2
+ * @license: GNU GPL v2
  */
 ?>
 
