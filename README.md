@@ -22,5 +22,5 @@ The GPLv3 allows others to copy, distribute and modify the software as long as t
 
 ### Links
 
-* [Quick Summary](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
-* [official License Site](http://www.gnu.org/copyleft/gpl-3.0.html)
+* [Quick Summary](https://tldrlegal.com/l/gpl-3.0)
+* [official License Site](http://gnu.org/copyleft/gpl-3.0)
