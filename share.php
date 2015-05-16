@@ -40,8 +40,8 @@
  * {is_video}	If the content is a video or not
  */
 
-// enter your social-media services
 $services = [
+	// enter your social-media services
 	'facebook'	=> 'https://facebook.com/sharer.php?u={url}',
 	'twitter'	=> 'https://twitter.com/intent/tweet?text={title}&url={url}',
 	'google'	=> 'https://plus.google.com/share?url={url}',
