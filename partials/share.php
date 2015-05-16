@@ -6,6 +6,7 @@
  * @link:	https://github.com/Gummibeer
  * @copyright:	Copyright (c) 2015, Tom Witkowski
  * @license:	http://www.gnu.org/licenses/gpl-3.0.html GNU GPL v3
+ * @version:	v1.0
  */
 ?>
 
