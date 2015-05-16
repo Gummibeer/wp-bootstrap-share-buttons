@@ -1,0 +1,286 @@
+.btn.btn-default {
+  border: 1px solid #333333;
+  border-radius: 0;
+  color: #ffffff;
+  background: #333333;
+  box-shadow: none;
+}
+.btn.btn-default [class^="icon-"],
+.btn.btn-default [class*=" icon-"] {
+  line-height: 1em;
+}
+.btn.btn-default:hover,
+.btn.btn-default:focus,
+.btn.btn-default:active {
+  color: #ffffff;
+  border: 1px solid #1A1A1A;
+  background: #1A1A1A;
+}
+.btn.btn-buffer {
+  border-color: #76b852;
+  background: #76b852;
+  color: #ffffff;
+}
+.btn.btn-buffer:hover,
+.btn.btn-buffer:focus,
+.btn.btn-buffer:active {
+  border-color: #5e983f;
+  background: #5e983f;
+}
+.btn.btn-delicious {
+  border-color: #3399ff;
+  background: #3399ff;
+  color: #ffffff;
+}
+.btn.btn-delicious:hover,
+.btn.btn-delicious:focus,
+.btn.btn-delicious:active {
+  border-color: #007fff;
+  background: #007fff;
+}
+.btn.btn-facebook {
+  border-color: #3b5998;
+  background: #3b5998;
+  color: #ffffff;
+}
+.btn.btn-facebook:hover,
+.btn.btn-facebook:focus,
+.btn.btn-facebook:active {
+  border-color: #2d4373;
+  background: #2d4373;
+}
+.btn.btn-google {
+  border-color: #dd4b39;
+  background: #dd4b39;
+  color: #ffffff;
+}
+.btn.btn-google:hover,
+.btn.btn-google:focus,
+.btn.btn-google:active {
+  border-color: #c23321;
+  background: #c23321;
+}
+.btn.btn-linkedin {
+  border-color: #0077b5;
+  background: #0077b5;
+  color: #ffffff;
+}
+.btn.btn-linkedin:hover,
+.btn.btn-linkedin:focus,
+.btn.btn-linkedin:active {
+  border-color: #005582;
+  background: #005582;
+}
+.btn.btn-pinterest {
+  border-color: #bd081c;
+  background: #bd081c;
+  color: #ffffff;
+}
+.btn.btn-pinterest:hover,
+.btn.btn-pinterest:focus,
+.btn.btn-pinterest:active {
+  border-color: #8c0615;
+  background: #8c0615;
+}
+.btn.btn-reddit {
+  border-color: #ff4500;
+  background: #ff4500;
+  color: #ffffff;
+}
+.btn.btn-reddit:hover,
+.btn.btn-reddit:focus,
+.btn.btn-reddit:active {
+  border-color: #cc3700;
+  background: #cc3700;
+}
+.btn.btn-stumbleupon {
+  border-color: #eb4924;
+  background: #eb4924;
+  color: #ffffff;
+}
+.btn.btn-stumbleupon:hover,
+.btn.btn-stumbleupon:focus,
+.btn.btn-stumbleupon:active {
+  border-color: #ca3412;
+  background: #ca3412;
+}
+.btn.btn-tumblr {
+  border-color: #35465c;
+  background: #35465c;
+  color: #ffffff;
+}
+.btn.btn-tumblr:hover,
+.btn.btn-tumblr:focus,
+.btn.btn-tumblr:active {
+  border-color: #222d3c;
+  background: #222d3c;
+}
+.btn.btn-twitter {
+  border-color: #55acee;
+  background: #55acee;
+  color: #ffffff;
+}
+.btn.btn-twitter:hover,
+.btn.btn-twitter:focus,
+.btn.btn-twitter:active {
+  border-color: #2795e9;
+  background: #2795e9;
+}
+.btn.btn-xing {
+  border-color: #026466;
+  background: #026466;
+  color: #ffffff;
+}
+.btn.btn-xing:hover,
+.btn.btn-xing:focus,
+.btn.btn-xing:active {
+  border-color: #013334;
+  background: #013334;
+}
+.dropdown.open .dropdown-toggle.btn-default {
+  border: 1px solid #333333;
+  border-radius: 0;
+  color: #ffffff;
+  background: #333333;
+  box-shadow: none;
+}
+.dropdown.open .dropdown-toggle.btn-default [class^="icon-"],
+.dropdown.open .dropdown-toggle.btn-default [class*=" icon-"] {
+  line-height: 1em;
+}
+.dropdown.open .dropdown-toggle.btn-default:hover,
+.dropdown.open .dropdown-toggle.btn-default:focus,
+.dropdown.open .dropdown-toggle.btn-default:active {
+  color: #ffffff;
+  border: 1px solid #1A1A1A;
+  background: #1A1A1A;
+}
+.dropdown.open .dropdown-toggle.btn-buffer {
+  border-color: #76b852;
+  background: #76b852;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-buffer:hover,
+.dropdown.open .dropdown-toggle.btn-buffer:focus,
+.dropdown.open .dropdown-toggle.btn-buffer:active {
+  border-color: #5e983f;
+  background: #5e983f;
+}
+.dropdown.open .dropdown-toggle.btn-delicious {
+  border-color: #3399ff;
+  background: #3399ff;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-delicious:hover,
+.dropdown.open .dropdown-toggle.btn-delicious:focus,
+.dropdown.open .dropdown-toggle.btn-delicious:active {
+  border-color: #007fff;
+  background: #007fff;
+}
+.dropdown.open .dropdown-toggle.btn-facebook {
+  border-color: #3b5998;
+  background: #3b5998;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-facebook:hover,
+.dropdown.open .dropdown-toggle.btn-facebook:focus,
+.dropdown.open .dropdown-toggle.btn-facebook:active {
+  border-color: #2d4373;
+  background: #2d4373;
+}
+.dropdown.open .dropdown-toggle.btn-google {
+  border-color: #dd4b39;
+  background: #dd4b39;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-google:hover,
+.dropdown.open .dropdown-toggle.btn-google:focus,
+.dropdown.open .dropdown-toggle.btn-google:active {
+  border-color: #c23321;
+  background: #c23321;
+}
+.dropdown.open .dropdown-toggle.btn-linkedin {
+  border-color: #0077b5;
+  background: #0077b5;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-linkedin:hover,
+.dropdown.open .dropdown-toggle.btn-linkedin:focus,
+.dropdown.open .dropdown-toggle.btn-linkedin:active {
+  border-color: #005582;
+  background: #005582;
+}
+.dropdown.open .dropdown-toggle.btn-pinterest {
+  border-color: #bd081c;
+  background: #bd081c;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-pinterest:hover,
+.dropdown.open .dropdown-toggle.btn-pinterest:focus,
+.dropdown.open .dropdown-toggle.btn-pinterest:active {
+  border-color: #8c0615;
+  background: #8c0615;
+}
+.dropdown.open .dropdown-toggle.btn-reddit {
+  border-color: #ff4500;
+  background: #ff4500;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-reddit:hover,
+.dropdown.open .dropdown-toggle.btn-reddit:focus,
+.dropdown.open .dropdown-toggle.btn-reddit:active {
+  border-color: #cc3700;
+  background: #cc3700;
+}
+.dropdown.open .dropdown-toggle.btn-stumbleupon {
+  border-color: #eb4924;
+  background: #eb4924;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-stumbleupon:hover,
+.dropdown.open .dropdown-toggle.btn-stumbleupon:focus,
+.dropdown.open .dropdown-toggle.btn-stumbleupon:active {
+  border-color: #ca3412;
+  background: #ca3412;
+}
+.dropdown.open .dropdown-toggle.btn-tumblr {
+  border-color: #35465c;
+  background: #35465c;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-tumblr:hover,
+.dropdown.open .dropdown-toggle.btn-tumblr:focus,
+.dropdown.open .dropdown-toggle.btn-tumblr:active {
+  border-color: #222d3c;
+  background: #222d3c;
+}
+.dropdown.open .dropdown-toggle.btn-twitter {
+  border-color: #55acee;
+  background: #55acee;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-twitter:hover,
+.dropdown.open .dropdown-toggle.btn-twitter:focus,
+.dropdown.open .dropdown-toggle.btn-twitter:active {
+  border-color: #2795e9;
+  background: #2795e9;
+}
+.dropdown.open .dropdown-toggle.btn-xing {
+  border-color: #026466;
+  background: #026466;
+  color: #ffffff;
+}
+.dropdown.open .dropdown-toggle.btn-xing:hover,
+.dropdown.open .dropdown-toggle.btn-xing:focus,
+.dropdown.open .dropdown-toggle.btn-xing:active {
+  border-color: #013334;
+  background: #013334;
+}
+.dropdown.open .dropdown-menu {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+}
+.dropdown.open .dropdown-menu li {
+  margin-top: 5px;
+}
