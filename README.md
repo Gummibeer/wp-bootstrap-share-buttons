@@ -11,3 +11,7 @@ Simply add the following line where you want to display the share Buttons and ed
 ```
 
 You can include the _example.less_ or _example.css_ in your project for the default button styles with the brand colors.
+
+## License
+
+GNU GENERAL PUBLIC LICENSE Version 3 http://www.gnu.org/copyleft/gpl-3.0.html
