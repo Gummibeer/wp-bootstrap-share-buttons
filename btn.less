@@ -1,0 +1,106 @@
+@hover-darken: 10%;
+@color-white: #ffffff;
+@color-default: #333333;
+@color-default-hover: darken(@color-default, @hover-darken);
+
+@color-buffer: #76b852;
+@color-delicious: #3399ff;
+@color-facebook: #3b5998;
+@color-google: #dd4b39;
+@color-linkedin: #0077b5;
+@color-pinterest: #bd081c;
+@color-reddit: #ff4500;
+@color-stumbleupon: #eb4924;
+@color-tumblr: #35465c;
+@color-twitter: #55acee;
+@color-xing: #026466;
+
+.normal-mixin(@color) {
+	border-color: @color;
+	background: @color;
+	color: @color-white;
+}
+.hover-mixin(@color) {
+	&:hover,
+	&:focus,
+	&:active {
+		border-color: darken(@color, @hover-darken);
+		background: darken(@color, @hover-darken);
+	}
+}
+.btn-sm-mixin(@color) {
+	.normal-mixin(@color);
+	.hover-mixin(@color);
+}
+
+.btn {
+	&.btn-default {
+		border: 1px solid @color-default;
+		border-radius: 0;
+		color: @color-white;
+		background: @color-default;
+		box-shadow: none;
+
+		[class^="icon-"],
+		[class*=" icon-"] {
+			line-height: 1em;
+		}
+
+		&:hover,
+		&:focus,
+		&:active {
+			color: @color-white;
+			border: 1px solid @color-default-hover;
+			background: @color-default-hover;
+		}
+	}
+
+	&.btn-buffer {
+		.btn-sm-mixin(@color-buffer);
+	}
+	&.btn-delicious {
+		.btn-sm-mixin(@color-delicious);
+	}
+	&.btn-facebook {
+		.btn-sm-mixin(@color-facebook);
+	}
+	&.btn-google {
+		.btn-sm-mixin(@color-google);
+	}
+	&.btn-linkedin {
+		.btn-sm-mixin(@color-linkedin);
+	}
+	&.btn-pinterest {
+		.btn-sm-mixin(@color-pinterest);
+	}
+	&.btn-reddit {
+		.btn-sm-mixin(@color-reddit);
+	}
+	&.btn-stumbleupon {
+		.btn-sm-mixin(@color-stumbleupon);
+	}
+	&.btn-tumblr {
+		.btn-sm-mixin(@color-tumblr);
+	}
+	&.btn-twitter {
+		.btn-sm-mixin(@color-twitter);
+	}
+	&.btn-xing {
+		.btn-sm-mixin(@color-xing);
+	}
+}
+
+.dropdown.open {
+	.dropdown-toggle {
+		.btn;
+	}
+
+	.dropdown-menu {
+		padding: 0;
+		border: none;
+		border-radius: 0;
+		li {
+			margin-top: 5px;
+		}
+	}
+}
