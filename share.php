@@ -1,11 +1,10 @@
 <?php
 /**
- * @project: wp-bootstrap-share-buttons
- * @author: Gummibeer
- * @author-email: dev.gummibeer@gmail.com
+ * wp-bootstrap-share-buttons
+ * @author: Gummibeer <dev.gummibeer@gmail.com>
  * @author-url: https://github.com/Gummibeer
- * @copyright: 2015 by Tom Witkowski
- * @license: GNU GPL v2
+ * @copyright: Copyright (c) 2015, Tom Witkowski
+ * @license: http://www.gnu.org/licenses/gpl-2.0.html GNU GPL v2
  */
 ?>
 
