@@ -14,4 +14,13 @@ You can include the _example.less_ or _example.css_ in your project for the defa
 
 ## License
 
-GNU GENERAL PUBLIC LICENSE Version 3 http://www.gnu.org/copyleft/gpl-3.0.html
+**GNU GENERAL PUBLIC LICENSE Version 3**
+
+### Quick Summary
+
+The GPLv3 allows others to copy, distribute and modify the software as long as they state what has been changed when, and ensure that any modifications are also licensed under the GPL. Software incorporating (via compiler) GPL-licensed code must also be made also available under the GPLv3 along with build & install instructions.
+
+### Links
+
+* [Quick Summary](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
+* [official License Site](http://www.gnu.org/copyleft/gpl-3.0.html)
