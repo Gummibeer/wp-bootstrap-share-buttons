@@ -2,6 +2,8 @@
 
 A Template-Partial for native Link Social-Media Share Buttons with Twitter Bootstrap 3 classes.
 
+The goal of this Partial is to improve the performance and design quality oft your Wordpress site. You can use it with nearly no changes out of Wordpress with and other CMS vor Framework.
+
 ## Installation
 
 Simply add the following line where you want to display the share Buttons and edit the `$services`, `$parameters` and `$settings` arrays in the _share.php_ to your needs.
